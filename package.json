@@ -1,0 +1,26 @@
+{
+  "name": "js_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marqeslarissa/js_tests.git"
+  },
+  "keywords": [],
+  "author": "Larissa Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marqeslarissa/js_tests/issues"
+  },
+  "homepage": "https://github.com/marqeslarissa/js_tests#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
