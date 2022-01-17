@@ -28,4 +28,4 @@ let pos = list.indexOf('Quarto');
 console.log(pos);
 
 let removedItem = list.splice(pos, 1); // remove last position 
-console.log(removedItem);
+console.warn(removedItem);
